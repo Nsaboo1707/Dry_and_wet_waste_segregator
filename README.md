@@ -5,7 +5,7 @@ An automated **Dry and Wet Waste Segregator** that uses an ultrasonic sensor to 
 ## 📽️ 1. Demo Video
 
 Watch the working demo here:  
-👉 [https://drive.google.com/file/d/1MKrkFj3OkoPq0llMe6Bj80mbuZWkB4T1/view?usp=drivesdk](#)  
+👉 https://drive.google.com/file/d/1MKrkFj3OkoPq0llMe6Bj80mbuZWkB4T1/view?usp=drivesdk(#)  
 *Replace `#` with your actual video link (YouTube/Drive/etc.).*
 
 
