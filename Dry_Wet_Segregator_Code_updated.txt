@@ -1,8 +1,3 @@
-/* Subscribe My youtube channel @skynet-robotics
-   This Code is trial and tested . No error in this code.
-   Note: if your servo rotate only one direction then adjust the sensitivity of soil sensor
-   you can see reading of soil sensor in the serial monitor */
-
 #include <Servo.h>
 Servo servo1;
 const int trigPin = 12;
